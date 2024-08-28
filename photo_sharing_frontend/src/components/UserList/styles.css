@@ -1,0 +1,12 @@
+.link-item{
+    text-decoration: unset;
+    font-size: 1.2rem;
+    font-weight: bolder;
+    color: #212121;
+    transition: 0.1s;
+}
+
+.link-item:hover{
+    color: #5AB2FF;
+    font-size: 1.3rem;
+}
